@@ -6,43 +6,43 @@ const Projects = () => {
     {
       title: "Advanced Web Calculator",
       description: "A dual-display calculator with advanced arithmetic features.",
-      image: "/projects/calculator.png",
+      image: "projects/calculator.png",
       link: "https://vinay2003-collab.github.io/calculatorlevel2/"
     },
     {
       title: "Image Carousel Slider",
       description: "A smooth image slider with auto and manual navigation.",
-      image: "/projects/carousel.png",
+      image: "projects/carousel.png",
       link: "https://vinay2003-collab.github.io/imageslider/"
     },
     {
       title: "Music Player",
       description: "A custom music player with playlist and playback controls.",
-      image: "/projects/music-player.png",
+      image: "projects/music-player.png",
       link: "https://vinay2003-collab.github.io/Musicplayer/"
     },
     {
       title: "Quiz App",
       description: "A quiz app with scoring, question flow, and clean UI.",
-      image: "/projects/quiz-app.png",
+      image: "projects/quiz-app.png",
       link: "#", // Replace with: "https://github.com/yourusername/quiz-app"
     },
     {
       title: "Weather App",
       description: "A weather forecast app using API with 7-day thumbnails.",
-      image: "/projects/weather-app.png",
+      image: "projects/weather-app.png",
       link: "https://github.com/vinay2003-collab/weatherappmain"
     },
     {
       title: "Task Management System",
       description: "A CRUD task manager with filters and a modern dashboard.",
-      image: "/projects/task-manager.png",
+      image: "projects/task-manager.png",
       link: "#", // Replace with: "https://github.com/yourusername/task-manager"
     },
     {
       title: "Todo App",
       description: "A minimal and clean todo app for daily tasks.",
-      image: "/projects/todo-app.png",
+      image: "projects/todo-app.png",
       link: "#", // Replace with: "https://github.com/yourusername/todo-app"
     },
   ];
